@@ -26,6 +26,6 @@ my_glfw.cpp使用说明：
 1. 搭建好saba的运行环境，并成功运行saba_viewer.cpp。
 2. 将my_glfw.cpp放在项目simple_mmd_viewer_glfw下，Release运行。
 
-不想自己搭建的，可以去下release版本，我已经编译好的，可直接运行。
+不想自己搭建的，可以下release版本--MMD桌面精灵release1.0.rar--，我已经编译好的，可直接运行。
 
 Saba：https://github.com/benikabocha/saba
