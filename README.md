@@ -22,4 +22,10 @@ MMD桌面精灵Desktop mascot，支持pmx、pmd、vmd，基于SabaMMD解析库�
 
 软件功能演示：https://www.bilibili.com/video/BV15T4y1G7Gj
 
+my_glfw.cpp使用说明：
+1. 搭建好saba的运行环境，并成功运行saba_viewer.cpp。
+2. 将my_glfw.cpp放在项目simple_mmd_viewer_glfw下，Release运行。
+
+不想自己搭建的，可以去下release版本，我已经编译好的，可直接运行。
+
 Saba：https://github.com/benikabocha/saba
